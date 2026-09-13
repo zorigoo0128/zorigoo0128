@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zorigoo0128/zorigoo0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Batzorig
 
-Here are some ideas to get you started:
+### 🎮 Game Developer & 3D Artist | 💻 Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Passionate about creating immersive worlds, real-time graphics, and interactive experiences.*
+
+---
+
+</div>
+
+## 🚀 About Me
+
+- 🔭 Currently working on **personal untitled Third-person open world game**
+- 🎨 Creating 3D assets, environments, and real-time visual effects
+- 💬 Ask me about **Unreal Engine C++/Blueprints & 3D Modeling**
+
+<br />
+
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<br />
+
+
+
+---
+
+<div align="center">
+  <sub>Designed & built with ❤️ by <a href="https://github.com/YOUR_USERNAME">Batzorig</a></sub>
+</div>
