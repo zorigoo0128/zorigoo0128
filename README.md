@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Batzorig
 
-### 🎮 Game Developer & 3D Artist | 💻 Programmer
+### 🎮 Game Developer | 💻 Programmer
 
 *Passionate about creating immersive worlds, real-time graphics, and interactive experiences.*
 
